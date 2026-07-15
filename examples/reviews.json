@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "review-001",
+      "postedAt": "2026-07-01T09:30:00Z",
+      "userId": "customer-101",
+      "orderNumber": "order-5001",
+      "review": "Delivery was fast and the service was excellent.",
+      "rating": 5
+    },
+    {
+      "id": "review-002",
+      "postedAt": "2026-07-02T11:15:00Z",
+      "userId": "customer-102",
+      "orderNumber": "order-5002",
+      "review": "The product was good but delivery was delayed.",
+      "rating": 3
+    },
+    {
+      "id": "review-003",
+      "postedAt": "2026-07-03T13:45:00Z",
+      "userId": "customer-103",
+      "orderNumber": "order-5003",
+      "review": "The ordering process was simple and straightforward.",
+      "rating": 4
+    }
+  ],
+  "nextCursor": null
+}
